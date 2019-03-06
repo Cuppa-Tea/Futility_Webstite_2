@@ -8,7 +8,9 @@ body {
   font-family: 'Lato';
 }
 
-
+div{
+    display: inline;
+}
 
 h1,
 h2,
