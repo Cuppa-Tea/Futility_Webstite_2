@@ -3185,6 +3185,7 @@ input[type="button"].btn-block {
 .collapse.show {
   display: block;
   visibility: visible;
+  color: black;
 }
 tr.collapse.show {
   display: table-row;
@@ -3196,6 +3197,7 @@ tbody.collapse.show {
   position: relative;
   height: 0;
   overflow: hidden;
+  color: black;
   -webkit-transition-timing-function: ease;
        -o-transition-timing-function: ease;
           transition-timing-function: ease;
